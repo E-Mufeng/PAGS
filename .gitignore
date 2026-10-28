@@ -1,0 +1,15 @@
+knowledge/
+store/
+runtime/
+learning/
+data/
+logs/
+backups/
+PROJECTS.json
+.env
+.env.*
+!*.example
+node_modules/
+.venv/
+__pycache__/
+*.pyc

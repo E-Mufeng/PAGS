@@ -1,0 +1,8 @@
+{
+  "name": "pags-source",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "Local agent experience gates and source-bound candidate capture"
+}

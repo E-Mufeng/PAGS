@@ -1,0 +1,7 @@
+mcp==2.3.0
+pydantic>=2.12,<3
+PyYAML>=6,<7
+filelock>=3.20,<4
+jsonschema>=4.19,<5
+jieba==0.42.1
+pywin32>=305; sys_platform == "win32"
